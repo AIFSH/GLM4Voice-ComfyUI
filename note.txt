@@ -1,0 +1,4 @@
+to show 中文
+value = json.dumps(source,ensure_ascii=False)
+
+ComfyUI/custom_nodes/rgthree-comfy/py/display_any.py 37

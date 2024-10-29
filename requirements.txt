@@ -1,0 +1,23 @@
+hyperpyyaml
+conformer
+deepspeed==0.14.2; sys_platform == 'linux'
+diffusers
+hydra-core
+inflect
+librosa
+lightning
+matplotlib
+modelscope
+networkx
+omegaconf
+onnxruntime-gpu==1.16.0; sys_platform == 'linux'
+onnxruntime==1.16.0; sys_platform == 'darwin' or sys_platform == 'windows'
+protobuf
+pydantic
+rich
+openai-whisper
+torch==2.4.0+cu121
+accelerate
+bitsandbytes
+gdown
+wget
