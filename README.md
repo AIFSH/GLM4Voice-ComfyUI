@@ -1,6 +1,14 @@
 # GLM4Voice-ComfyUI
 a custom node for [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice)
 
+## Weights
+weighs auto download from HF，对于国内用户，可手动下载后解压至`ComfyUI/models/AIFSH`目录下，[下载链接](https://pan.quark.cn/s/515c0308cb43)
+
+## 教程
+- [开箱即用整合包](https://b23.tv/e6gQ9ms)
+  - 整合包1次充电31天免费更新，内含Ultralight-Digital-Human，GLM-4-Voice,MaskGCT，F5-TTS，FireRedTTS，hallo2，JoyHallo，SeedVC八个AIFSH的节点，持续更新中
+- [配套教程](https://www.bilibili.com/video/av113393109304355)
+- 
 ## Example
 |input_text|answer_text|audio|
 |--|--|--|
