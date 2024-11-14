@@ -8,7 +8,9 @@ weighs auto download from HF，对于国内用户，可手动下载后解压至`
 - [开箱即用整合包](https://b23.tv/e6gQ9ms)
   - 整合包1次充电31天免费更新，内含Ultralight-Digital-Human，GLM-4-Voice,MaskGCT，F5-TTS，FireRedTTS，hallo2，JoyHallo，SeedVC八个AIFSH的节点，持续更新中
 - [配套教程](https://www.bilibili.com/video/av113393109304355)
-- 
+
+## Disclaimer / 免责声明
+We do not hold any responsibility for any illegal usage of the codebase. Please refer to your local laws about DMCA and other related laws. 我们不对代码库的任何非法使用承担任何责任. 请参阅您当地关于 DMCA (数字千年法案) 和其他相关法律法规.
 ## Example
 |input_text|answer_text|audio|
 |--|--|--|
